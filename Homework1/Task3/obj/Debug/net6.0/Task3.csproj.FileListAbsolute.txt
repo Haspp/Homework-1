@@ -1,0 +1,15 @@
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\bin\Debug\net6.0\Task3.exe
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\bin\Debug\net6.0\Task3.deps.json
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\bin\Debug\net6.0\Task3.dll
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\bin\Debug\net6.0\Task3.pdb
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.dll
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\refint\Task3.dll
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.pdb
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+C:\Users\evgen\Desktop\ДЗ\Языки программирования\Homework1\Homework1\Task3\obj\Debug\net6.0\ref\Task3.dll
